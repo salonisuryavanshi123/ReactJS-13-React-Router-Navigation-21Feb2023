@@ -1,0 +1,13 @@
+main{
+    height: 1000px;
+    border: 1px dashed green;
+}
+
+footer{
+    height: 250px;
+    border: 1px dashed blue;
+}
+
+.row > div{
+    border: 1px dashed red;
+}
